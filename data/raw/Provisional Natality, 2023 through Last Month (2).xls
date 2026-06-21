@@ -1,0 +1,89 @@
+"Notes"	"State or Territory of Residence"	"State or Territory of Residence Code"	Births	Average Age of Mother (years)	Average Pre-pregnancy BMI	Average Number of Prenatal Visits	Average Interval Since Last Live Birth (months)	Average Interval Since Last Other Pregnancy Outcome (months)
+	"Alabama"	"01"	18138	28.31	28.99	10.48	48.99	45.26
+	"Alaska"	"02"	2879	29.36	27.98	10.39	44.50	49.91
+	"Arizona"	"04"	25527	29.37	28.12	10.69	49.76	50.76
+	"Arkansas"	"05"	11585	27.88	28.84	10.21	48.42	42.94
+	"California"	"06"	123373	31.12	27.84	11.59	54.25	39.36
+	"Colorado"	"08"	21082	30.38	27.32	10.67	48.23	43.40
+	"Connecticut"	"09"	10867	31.54	27.64	11.92	52.94	49.09
+	"Delaware"	"10"	3154	29.97	28.95	10.58	51.26	48.09
+	"District of Columbia"	"11"	2275	32.31	26.71	9.40	51.98	46.61
+	"Florida"	"12"	70392	30.28	27.72	9.88	54.17	52.63
+	"Georgia"	"13"	39681	29.37	28.21	11.11	50.97	48.04
+	"Hawaii"	"15"	4466	30.33	27.80	9.86	49.97	54.76
+	"Idaho"	"16"	7893	28.87	27.50	11.45	45.20	45.31
+	"Illinois"	"17"	37901	30.36	28.64	11.10	50.11	44.80
+	"Indiana"	"18"	25541	28.77	28.69	11.26	46.97	43.18
+	"Iowa"	"19"	11731	29.13	28.47	11.58	45.38	43.95
+	"Kansas"	"20"	11143	28.94	28.54	11.01	45.41	42.78
+	"Kentucky"	"21"	16625	28.25	28.51	11.43	46.99	44.29
+	"Louisiana"	"22"	15809	28.40	28.82	10.78	50.11	42.68
+	"Maine"	"23"	3712	30.31	28.67	11.95	46.33	38.70
+	"Maryland"	"24"	19689	30.89	28.42	11.08	52.57	44.43
+	"Massachusetts"	"25"	21273	31.87	27.28	11.42	51.31	36.69
+	"Michigan"	"26"	32040	29.71	28.00	11.36	45.46	41.02
+	"Minnesota"	"27"	20286	30.55	28.23	11.03	44.92	43.30
+	"Mississippi"	"28"	10207	27.62	29.88	11.15	50.57	44.06
+	"Missouri"	"29"	21901	28.88	28.16	10.74	46.27	42.40
+	"Montana"	"30"	3921	29.19	27.69	10.82	41.73	48.42
+	"Nebraska"	"31"	7886	29.25	27.95	11.73	45.48	43.94
+	"Nevada"	"32"	10176	29.86	28.02	11.69	54.37	50.76
+	"New Hampshire"	"33"	3810	31.16	27.99	11.96	44.71	42.25
+	"New Jersey"	"34"	31387	31.52	27.19	10.32	51.38	51.39
+	"New Mexico"	"35"	6293	28.43	28.13	9.52	49.35	48.81
+	"New York"	"36"	61814	31.04	27.18	10.95	50.86	47.83
+	"North Carolina"	"37"	39733	29.47	28.30	11.69	50.59	45.47
+	"North Dakota"	"38"	3184	29.34	29.10	10.28	43.95	39.71
+	"Ohio"	"39"	40807	29.25	28.37	11.67	45.22	40.64
+	"Oklahoma"	"40"	15621	28.15	28.35	10.42	47.53	42.50
+	"Oregon"	"41"	12464	30.25	27.89	11.48	48.25	42.06
+	"Pennsylvania"	"42"	39334	30.28	27.74	10.98	46.35	39.67
+	"Rhode Island"	"44"	2970	30.99	27.66	11.73	51.65	45.81
+	"South Carolina"	"45"	19168	29.15	28.49	11.82	49.84	44.34
+	"South Dakota"	"46"	3726	29.06	27.72	10.49	43.56	42.42
+	"Tennessee"	"47"	27012	28.86	27.87	10.78	48.62	47.18
+	"Texas"	"48"	121182	29.22	28.20	10.49	51.42	48.56
+	"Utah"	"49"	15391	29.06	26.67	10.46	43.68	42.15
+	"Vermont"	"50"	1639	30.82	28.23	11.72	45.90	40.58
+	"Virginia"	"51"	29398	30.33	28.11	11.60	49.97	46.29
+	"Washington"	"53"	27040	30.50	27.54	10.77	47.54	41.37
+	"West Virginia"	"54"	5433	27.83	28.78	11.62	47.59	43.90
+	"Wisconsin"	"55"	19395	29.88	28.35	11.51	43.77	40.18
+	"Wyoming"	"56"	2017	28.64	27.06	10.78	44.35	44.48
+	"Puerto Rico"	"72"	5914	28.12	28.08	11.56	60.63	47.78
+"Total"			1145885	29.88	28.03	11.01	49.74	44.88
+"---"
+"Dataset: Provisional Natality, 2023 through Last Month"
+"Query Parameters:"
+"Year: 2026 (Provisional)"
+"Group By: State or Territory of Residence"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/natality-provisional.html for more information."
+"---"
+"Query Date: Jun 21, 2026 5:41:17 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Natality on CDC WONDER Online Database. Data are from the Natality Records 2023 through Last Month, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/natality-expanded-provisional.html on Jun 21, 2026 5:41:17 PM"
+"---"
+Caveats:
+"1. Each birth record represents one liveborn infant."
+"2. 2025 data are provisional and subject to change. 2023-2024 data are final."
+"3. Births occurring through 2026 through April 30, 2026 as of May 26, 2026."
+"4. Caution should be used when interpreting the Average Age of Mother measure. All ages 12 years and less are coded to 12 years."
+"All ages 50 years and over are coded to 50 years. The number of counts in those two age goups are small and should not have a"
+"great effect on the average age. Consider doing queries with and without these two age groups and compare the effect on Average"
+"Age of Mother measure."
+"5. Records where the ""BMI"" is ""Unknown or Not Stated"" are not included in the calculation of the ""Average Pre-pregnancy"
+"BMI"" measure."
+"6. Records where the ""Number of Prenatal Visits"" is ""Unknown or Not Stated"" are not included in the calculation of the"
+"""Average Number of Prenatal Visits"" measure."
+"7. Records where the ""Interval Since Last Live Birth"" is ""Unknown or Not Stated"" or ""Zero to 3 months"" are not included in"
+"the calculation of the ""Average Interval Since Last Live Birth"" measure."
+"8. Records where the ""Interval Since Last Other Pregnancy Outcome"" is ""Unknown or Not Stated"" or ""Zero to 3 months"" are"
+"not included in the calculation of the ""Average Interval Since Last Other Pregnancy Outcome"" measure."
