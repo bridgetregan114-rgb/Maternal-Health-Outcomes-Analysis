@@ -1,1 +1,62 @@
-Placeholder file to maintain folder structure.
+Dataset Added:
+cdc_natality_state_level_2023.csv
+
+Source:
+CDC WONDER Natality
+
+Purpose:
+Evaluate state-level maternal health indicators and prenatal care utilization.
+# Project Log
+
+## June 21, 2026
+
+### Project Setup
+
+* Created GitHub repository: Maternal-Health-Outcomes-Analysis
+* Defined project goal and research question
+* Established project folder structure:
+
+  * data
+  * sql
+  * notebooks
+  * visualizations
+  * dashboard
+
+### Research Question
+
+What factors are most strongly associated with maternal health outcomes across U.S. states between 2019 and 2024?
+
+### Initial Data Exploration
+
+* Explored CDC WONDER Natality datasets to identify maternal health indicators and potential explanatory variables.
+* Initially downloaded regional-level data grouped by Census Region.
+* Determined that regional-level data would not provide sufficient granularity for state-by-state analysis.
+
+### Data Acquisition Progress
+
+* Successfully obtained state-level CDC Natality data.
+* Identified potential maternal health indicators including:
+
+  * Prenatal care utilization
+  * Maternal age
+  * Pre-pregnancy BMI
+  * Number of prenatal visits
+  * Birth-related outcomes
+
+### Key Findings
+
+* State-level data provides a significantly stronger foundation for analysis than regional summaries.
+* The project will focus on combining maternal health indicators with healthcare access, socioeconomic, insurance coverage, and public health datasets.
+
+### Next Steps
+
+* Review state-level natality variables and identify outcome measures.
+* Create a data dictionary documenting available variables.
+* Acquire additional datasets related to:
+
+  * Healthcare provider availability
+  * Insurance coverage
+  * Income and poverty
+  * Public health indicators
+* Begin data cleaning and preparation.
+* Develop a master dataset for exploratory analysis.
