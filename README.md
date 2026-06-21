@@ -2,7 +2,7 @@
 
 ## Project Goal
 
-Investigate which healthcare access, socioeconomic, and public health factors are most strongly associated with maternal health outcomes across U.S. states.
+Investigate which healthcare access, socioeconomic, and public health factors are most strongly associated with maternal health outcomes across U.S. states between 2019 and 2024.
 
 ## Research Question
 
